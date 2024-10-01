@@ -1,3 +1,3 @@
 # toy_ds_project
-project creation date: 01/10/24
+project creation date: October 1st, 2024
 author: Porcheron Sarah 
